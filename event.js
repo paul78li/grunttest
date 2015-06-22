@@ -25,5 +25,5 @@ var bell = new Bell();
 //addListener on 作用一样
 bell.addListener('ring',student);
 bell.on('ring',teacher);
-
+;
 bell.ring();
