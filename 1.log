@@ -1,0 +1,12 @@
+hi
+l1: 1ms
+{ log: [Function],
+  info: [Function],
+  warn: [Function],
+  error: [Function],
+  dir: [Function],
+  time: [Function],
+  timeEnd: [Function],
+  trace: [Function],
+  assert: [Function],
+  Console: [Function: Console] }
