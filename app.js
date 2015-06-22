@@ -12,5 +12,8 @@ console.log(person.getName());
 
 console.log('--------------');
 //定义在原型上，对.name直接修改值，并不能修改原型上的值
-console.log(person2.getName())
-console.log(person.getName())
+console.log(person2.getName());
+console.log(person.getName());
+console.log('--------------');
+Person.staticName = 'sss';
+Person.staticFun();

@@ -12,4 +12,8 @@ Person.prototype.setName = function (pname) {
 }
 
 Person.prototype.name = name;
+Person.staticName = '';
+Person.staticFun = function(){
+    console.log(Person.staticName);
+}
 module.exports = Person;
