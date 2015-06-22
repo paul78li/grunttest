@@ -14,11 +14,11 @@ Bell.prototype.ring = function(){
 }
 
 function student(){
-    console.log('Ìý¿Î');
+    console.log('Listen');
 }
 
 function teacher(){
-    console.log('ÉÏ¿Î');
+    console.log('go');
 }
 
 var bell = new Bell();
