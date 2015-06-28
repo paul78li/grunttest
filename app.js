@@ -17,3 +17,6 @@ console.log(person.getName());
 console.log('--------------');
 Person.staticName = 'sss';
 Person.staticFun();
+
+console.log(module);
+
